@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "mongoose": "^4.13.21",
+    "mongoose-auto-increment": "^5.0.1"
+  }
+}
